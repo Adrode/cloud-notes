@@ -1,0 +1,178 @@
+#devops #roadmap
+
+1. Linux
+	- [ ] Nauczyć się do poziomu, w którym będę mógł zainstalować Arch Linux i wiedzieć co robię i co się dzieje
+	- [ ] [Arch Linux 1](https://www.youtube.com/watch?v=qboMuv9vSpQ) 
+	- [ ] [Arch Linux 2](https://www.youtube.com/watch?v=cpoHedIhjWc)
+		- [ ] Boot process
+		- [ ] File System
+		- [ ] Permissions
+		- [ ] Systemd
+		- [ ] Package managers
+		- [ ] Debugging skills
+		- [ ] Finding / reading logs
+		- [ ] Networking fundamentals
+		- [ ] Bash scripting
+	- [ ] Możliwe certyfikaty do zdobycia:
+		- [ ] RHCSA
+		- [ ] LPIC-1
+2. Containers
+	- [ ] Docker
+	- [ ] Dockerfile
+	- [ ] Container security
+		- [ ] Czym są powyższe, czym się różnią, co oznacza instalowanie kontenera binarnie a co oznacza korzystanie z kontenera na własnym systemie.
+		- [ ] [Kurs Docker YT](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+	- [ ] Running multiple containers
+	- [ ] Docker Compose
+	- [ ] Docker networking
+	- [ ] Dev Containers
+		- [ ] [Microsoft Dev Containers](https://containers.dev)
+3. Programming
+	- [ ] Nauczyć się podstaw przynajmniej jednego języka programowania
+		- Python lub GO
+			- [ ] [Exercism Python course](https://exercism.org/tracks/python)
+			- [ ] [100 Days of Code: Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOoolBWQptnXDq7nyQ0stL32qQTXeHI1FFO8Pa7lPthHixkuMA8x0&couponCode=LETSLEARNNOW)
+				- Świetny kurs, bardzo dużo projektów się w nim robi
+			- Tworzyć własne malutkie automatyzacje dla siebie, nie muszą mieć dużo sensu, grunt żeby działały
+			- Tworzyć dużo malutkich projektów z użyciem API
+				- [Free public APIs site](https://www.freepublicapis.com/)
+		- Zmienne, funkcje, OOP (object oriented programming), biblioteki
+		- Nie trzeba uczyć się algorytmów
+			- Tutaj chodzi bardziej o złożone funkcje np. sortujące, filtrujące itd.. Chodzi po prostu o naukę podstaw.
+		- Nie trzeba korzystać z LeetCode
+	- [ ] Git - podstawy
+		- [ ] Jak tworzyć pull requesty
+		- [ ] Jak robić porządne commity
+		- [ ] Jak współpracować z innymi na różnych gałęziach
+	- [ ] YAML (nie język programowania, tylko markup language)
+		- Używany do:
+			- ansible
+			- kubernetes
+			- github actions
+			- azure devops pipelines
+		- YAML jest bardzo WAŻNY! Bardzo ułatwia korzystanie z kolejnych oprogramowań, jak np. Kubernetes, Jenkins, itd.
+		- [ ] Obiekty w YAML
+		- [ ] Listy w YAML
+	- [ ] Bash scripting
+		- wiele z narzędzi do CI/CD pipe line może być zastąpionych przez skrypty bash
+4. Cloud
+	- Wybrać jednego providera usług Cloud i nauczyć się jego usług bardzo dobrze
+		- Najlepiej sprawdzić swój lokalny rynek i sprawdzić oferty pracy (który provider jest najczęściej używany)
+	- [ ] Azure
+		- [ ] MS Learn
+		- [ ] [John Savill (youtube channel)](https://www.youtube.com/watch?v=IUCEFBmYIog&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+			- Oba te źródła są darmowe i w świetnie przygotowują do korzystania Azure
+	- [ ] AWS
+		- [ ] LearnCatrill (Adrian Cantrill, youtube channel)
+			- [ ] [Networking fundamentals](https://www.youtube.com/watch?v=1PK3O6MndLs&list=PLTk5ZYSbd9MjQldrAm-Dd3ms-0sUH_v9M)
+			- [ ] [AWS Solutions Architect Professional](https://www.youtube.com/watch?v=1PK3O6MndLs&list=PLTk5ZYSbd9MjQldrAm-Dd3ms-0sUH_v9M)
+				- To akurat jest chyba przerobienie pytań pod egzamin, ale może inna playlista jest z wiedzą
+		- [ ] Kodekloud (płatne)
+		- [ ] [Skillbuilder AWS](https://skillbuilder.aws/) (płatne, ale przygotowuje pod egzamin i dużo praktyki)
+	- [ ] GCP (Google Cloud)
+		- [ ] [Google Cloud Training](https://cloud.google.com/learn/training)
+5. Infrastructure as Code
+	- [ ] Bicep
+		- język bezpośrednio dla Azure
+		- [ ] [Learn Microsoft - Bicep](https://learn.microsoft.com/en-us/training/paths/fundamentals-bicep/)
+			- Darmowy, pełny kurs
+	- [ ] Terraform
+		- KAŻDY DEVOPS MUSI ZNAĆ TERRAFORM!
+		- [ ] [Terraform Tutorial](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003) (bezpośrednio od producenta)
+	- [ ] Pulumi
+		- IaC poprzez użycie języków jak Python lub GO
+		- Bardziej opcjonalna opcja, rzadko używana
+		- [ ] [Pulumi site](https://www.pulumi.com/)
+6. Cloud elements
+	- [ ] Databases
+		- [ ] PostgreSQL
+	- [ ] Storage and Backup
+		- Terminologia i best practices
+	- [ ] Networking
+		- Wystarczą podstawy, zwłaszcza o IP
+		- [ ] [AZ-104 Certification](https://learn.microsoft.com/pl-pl/training/paths/az-104-administrator-prerequisites/)
+			- Bardzo obszerny i głęboki kurs dla Azure o sieciach (może też będzie przydatny z ogółem wiedzy, więc nie tylko dla Azure; do sprawdzenia)
+		- [ ] Entra ID (IAM)
+			- Do zarządzania tożsamościami
+		- [ ] CI/CD
+			- [ ] GitHub Actions
+			- [ ] GitLab CI/CD
+7. Kubernetes
+	- BARDZO WAŻNA PLATFORMA! Google, Microsoft, OpenAI (ChatGPT) - wszystko działa na Kubernetes.
+		- Jeśli aplikacje powyższych firm się rozwijają i działają na Kubernetes, to jest to rosnący rynek, więc trzeba w to iść.
+	- Jakie podstawy muszę mieć, zanim rozpocznę naukę Kubernetes?
+		- [ ] [How to learn Kubernetes](https://www.youtube.com/watch?v=cAD6QaJTVyw)
+		- [ ] [Kubernetes Networking](https://www.youtube.com/watch?v=J8jAzqbXxjE)
+		- [ ] [Complete Kubernetes Course](https://www.youtube.com/watch?v=2T86xAtR6Fo)
+		- [ ] Linux
+			- [ ] Command line (podstawy nawigacji po systemie)
+			- [ ] File system
+			- [ ] Understanding processes
+			- [ ] Networking concepts
+			- [ ] YAML
+		- [ ] Containers
+			- [ ] Container images and registries
+			- [ ] Dockerfile basics
+			- [ ] Container lifecycle
+			- [ ] Container networking basics
+			- [ ] Persistent storage with containers
+				- [ ] [Iximiuz Labs](https://labs.iximiuz.com/tutorials) (tutoriale i challange o kontenerach)
+				- [ ] [Complete Docker Course](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=5s)
+		- [ ] DevOps
+			- [ ] Deploying fast and often
+			- [ ] Infrastructure as code principles
+			- [ ] Declarative config management
+			- [ ] CI/CD workflow understanding
+	- Certyfikaty które **wyznaczają ścieżkę nauki!**
+		- [ ] CKAD (Certified Kubernetes Application Developer)
+		- [ ] CKA (Certified Kubernetes Administrator)
+			- dla DevOps Engineers, System Administrators, itd.
+		- [ ] CKS (Certified Kubernetes Security Specialist)
+			- Bardzo skomplikowany kurs, dla DevOps
+			- [CKS Full Course](https://www.youtube.com/watch?v=d9xfB5qaOfg)
+	- Narzędzia do nauki Kubernetes
+		- [ ] [Rancher Desktop](https://www.youtube.com/watch?v=aX96l0gdCWY)
+		- [ ] K3s
+8. Komunikacja
+	- Udzielać się w społecznościach DevOps
+		- Otaczać się innymi "studentami" 
+	- Prosić o pomoc, gdy utknę w czymś
+	- Budować network (sieć kontaktów)
+	- Wyrabiać w sobie umiejętności prezentacji i publicznego wypowiadania się
+	- Budować / sklejać zespoły
+		- Bycie tzw. "glue" dla zespołu (nie muszę być jedyną taką osobą w teamie, ale wystarczy inicjatywa)
+9. Personal brand
+	- [ ] Tworzyć bloga
+		- Udokumentować swoją ścieżkę, proces nauki, to co sprawiało mi trudność, osiągnięcia, itd.
+	- [ ] Lab repo
+	- [ ] Personal page
+	- [ ] Projekty na GitHub
+	- [ ] Wrzucać posty na LinkedIn 2x w tygodniu
+	- [ ] Wrzucać posty na X codziennie
+		- Chodzi o bycie widocznym w internecie, co jest bardzo ważne!
+		- Zdobywanie followerów jest drugorzędne, a nawet lepiej o tym zapomnieć / w ogóle się na tym nie skupiać
+10. Finding a Job & Interviewing
+	- Jest to umiejętność, której trzeba się nauczyć.
+		- Lepiej odbywać jak najwięcej rozmów o pracę
+	- Najważniejsze jest zdobycie pierwszej pracy i zdobywanie doświadczenia zawodowego
+		- W ogóle nie patrzeć na zarobki przy pierwszej pracy, bo to bardzo szybko się zwróci z czasem
+	- Każde CV musi być dopasowane do oferty!
+11. AI
+	- Podstawowo zrozumieć proces tworzenia LLM (modeli językowych) oraz jak działają różne modele
+		- Bawić się różnymi modelami AI
+		- [Dario Amodei: Anthropic CEO on AI](https://www.youtube.com/watch?v=ugvHCXCOmm4)
+		- Książka "Artificial Intelligence, A Guide for Thinking Humans", Melanie Mitchell
+	- AI Infrastructure Engineering
+		- [DevOps future in AI companies](https://blog.min.io/why-your-second-hire-should-be-a-devops-engineer/)
+		- Master GPU on Kubernetes
+		- Learn distributed AI computing
+		- Handle ML data storage
+		- Monitor GPU performance
+		- Deploy ML platforms
+			- NVIDIA GPU Operator
+			- Kubeflow
+			- Kaito
+			- MinIO AIStore
+	- MLOps
+
+[Prostsza Roadmapa Cloud Engineer](https://www.youtube.com/watch?v=4gFsFKAqA1M)
