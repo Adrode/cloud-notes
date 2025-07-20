@@ -1,5 +1,7 @@
 # cloud-notes
-Notes from learning Cloud components:
+I use the Obsidian app to take notes.
+
+My learning path to become a Cloud Engineer:
 - Linux
 - Network
 - Docker
