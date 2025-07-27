@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Linux/8. Logi.md",
+                "file": "1. Projects/Linux/9. Strumienie i przekierowania danych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Logi"
+              "title": "9. Strumienie i przekierowania danych"
             }
           }
         ]
@@ -170,11 +170,13 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
-    "1. Projects/Linux/2. Struktura plików.md",
-    "1. Projects/Linux/8. Logi.md",
-    "1. Projects/Linux/7. Instalacje.md",
     "1. Projects/Linux/3. Podstawowe komendy.md",
     "1. Projects/Linux/4. Wyszukiwanie plików.md",
+    "1. Projects/Linux/9. Strumienie i przekierowania danych.md",
+    "README.md",
+    "1. Projects/Linux/8. Logi.md",
+    "1. Projects/Linux/2. Struktura plików.md",
+    "1. Projects/Linux/7. Instalacje.md",
     "1. Projects/Linux/6. Użytkownicy i uprawnienia.md",
     "1. Projects/Linux/5. Kompresja danych.md",
     "1. Projects/Linux/1. Podstawy o systemie Linux.md",
@@ -183,7 +185,7 @@
     "1. Projects/Docker/1. Docker - podstawy.md",
     "3. Resources/DevOps Roadmap 2025.md",
     "3. Resources/Images/Pasted image 20250721175952.png",
-    "2025-07-21.md",
+    "3. Resources/Images/2025-07-21.md",
     "2. Areas/Cloud Engineer goals.md",
     "3. Resources/Ustanawianie celów/Action-based goals.md",
     "2. Areas/Cloud Eng. goals/Untitled.md",
@@ -209,7 +211,6 @@
     "2. Areas",
     "1. Projects",
     "2025-06-29.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
