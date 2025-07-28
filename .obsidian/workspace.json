@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Linux/3. Podstawowe komendy.md",
+                "file": "1. Projects/Linux/9. Strumienie i przekierowania danych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Podstawowe komendy"
+              "title": "9. Strumienie i przekierowania danych"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
+    "1. Projects/Linux/3. Podstawowe komendy.md",
     "1. Projects/Linux/2. Struktura plików.md",
     "1. Projects/Linux/1. Podstawy o systemie Linux.md",
     "1. Projects/Linux/9. Strumienie i przekierowania danych.md",
     "3. Resources/DevOps Roadmap 2025.md",
     "1. Projects/Linux/8. Logi.md",
-    "1. Projects/Linux/3. Podstawowe komendy.md",
     "1. Projects/Linux/4. Wyszukiwanie plików.md",
     "README.md",
     "1. Projects/Linux/7. Instalacje.md",
