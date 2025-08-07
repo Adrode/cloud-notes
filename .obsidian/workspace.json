@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Linux/14. Procesy.md",
+                "file": "1. Projects/Linux/16. RAM, dyski, partycje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Procesy"
+              "title": "16. RAM, dyski, partycje"
             }
           }
         ]
@@ -168,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faacba8b4eea93bf",
+  "active": "c12900587c472472",
   "lastOpenFiles": [
     "1. Projects/Linux/15. Systemd.md",
+    "1. Projects/Linux/16. RAM, dyski, partycje.md",
     "1. Projects/Linux/14. Procesy.md",
     "1. Projects/Linux/2. Struktura plików.md",
     "1. Projects/Linux/1. Podstawy o systemie Linux.md",
@@ -204,7 +205,6 @@
     "3. Resources/Images/Pasted image 20250713194211.png",
     "3. Resources/Images",
     "Untitled.canvas",
-    "2025-07-13.md",
     "Pasted image 20250712115802.png",
     "1. Projects/Linux",
     "3. Resources/Metody tworzenia notatek",
