@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Networks/1. Podstawy o sieciach komputerowych.md",
+                "file": "1. Projects/Networks/1. System binarny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Podstawy o sieciach komputerowych"
+              "title": "1. System binarny"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13c76bf4515e2629",
+  "active": "c12900587c472472",
   "lastOpenFiles": [
+    "3. Resources/Images/Pasted image 20250812194121.png",
     "1. Projects/Linux/18. CUT, SED, AWK.md",
-    "1. Projects/Networks/1. Podstawy o sieciach komputerowych.md",
+    "1. Projects/Networks/1. System binarny.md",
     "1. Projects/Networks",
     "1. Projects/Linux/17. Dowiązania - linki.md",
     "1. Projects/Linux/16. RAM, dyski, partycje.md",
@@ -201,7 +201,6 @@
     "1. Projects/Docker/1. Docker - podstawy.md",
     "3. Resources/Images/Pasted image 20250721175952.png",
     "3. Resources/Images/2025-07-21.md",
-    "2. Areas/Cloud Engineer goals.md",
     "2. Areas/Cloud Eng. goals",
     "3. Resources/Ustanawianie celów",
     "3. Resources/Images/Pasted image 20250713194211.png",
