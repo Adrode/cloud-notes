@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Networks/8. IPv6.md",
+                "file": "1. Projects/Networks/9. Słowniczek pojęć sieciowych.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. IPv6"
+              "title": "9. Słowniczek pojęć sieciowych"
             }
           }
         ]
@@ -168,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12900587c472472",
+  "active": "faacba8b4eea93bf",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
+    "1. Projects/Networks/9. Słowniczek pojęć sieciowych.md",
     "1. Projects/Networks/8. IPv6.md",
+    "README.md",
     "3. Resources/Images/Pasted image 20250816152253.png",
     "1. Projects/Networks/6. IPv4.md",
     "1. Projects/Networks/7. Port i socket.md",
@@ -199,8 +201,6 @@
     "1. Projects/Linux/6. Użytkownicy i uprawnienia.md",
     "1. Projects/Linux/5. Kompresja danych.md",
     "1. Projects/Linux/4. Wyszukiwanie plików.md",
-    "1. Projects/Linux/3. Podstawowe komendy.md",
-    "1. Projects/Linux/2. Struktura plików.md",
     "3. Resources/Images/Pasted image 20250803101913.png",
     "3. Resources/Images/Pasted image 20250723195950.png",
     "3. Resources/Images/Pasted image 20250723195444.png",
