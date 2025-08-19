@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Networks/10. Protokoły modelu TCP IP.md",
+                "file": "1. Projects/Networks/10. Protokoły modelu TCPIP/11. Protokoły warstwy transportowej.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Protokoły modelu TCP IP"
+              "title": "11. Protokoły warstwy transportowej"
             }
           }
         ]
@@ -170,14 +170,16 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
+    "1. Projects/Networks/10. Protokoły modelu TCPIP/10. Protokoły warstwy aplikacji.md",
+    "1. Projects/Networks/10. Protokoły modelu TCPIP/11. Protokoły warstwy transportowej.md",
+    "1. Projects/Networks/10. Protokoły modelu TCPIP",
+    "1. Projects/Networks/9. Słowniczek pojęć sieciowych.md",
     "Untitled.md",
-    "1. Projects/Networks/10. Protokoły modelu TCP IP.md",
     "1. Projects/Networks/5. Pakiety.md",
     "Th.md",
     "1. Projects/Networks/4. Urządzenia sieciowe.md",
     "1. Projects/Networks/3. Rodzaje sieci.md",
     "1. Projects/Networks/2. Modele sieciowe.md",
-    "1. Projects/Networks/9. Słowniczek pojęć sieciowych.md",
     "1. Projects/Networks/7. Port i socket.md",
     "1. Projects/Networks/8. IPv6.md",
     "README.md",
@@ -200,7 +202,6 @@
     "1. Projects/Linux/9. Strumienie i przekierowania danych.md",
     "1. Projects/Linux/8. Logi.md",
     "1. Projects/Linux/7. Instalacje.md",
-    "1. Projects/Linux/6. Użytkownicy i uprawnienia.md",
     "3. Resources/Images/Pasted image 20250803101913.png",
     "3. Resources/Images/Pasted image 20250723195950.png",
     "3. Resources/Images/Pasted image 20250723195444.png",
@@ -215,7 +216,6 @@
     "3. Resources/Metody tworzenia notatek",
     "Untitled",
     "4. Archives",
-    "3. Resources",
-    "2. Areas"
+    "3. Resources"
   ]
 }
