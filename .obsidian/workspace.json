@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Docker/2. Podstawowe komendy.md",
+                "file": "1. Projects/Docker/1. Podstawy, instalacja, uruchamianie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Podstawowe komendy"
+              "title": "1. Podstawy, instalacja, uruchamianie"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
-    "1. Projects/Docker/1. Podstawy, instalacja, uruchamianie.md",
     "1. Projects/Docker/2. Podstawowe komendy.md",
+    "1. Projects/Docker/1. Podstawy, instalacja, uruchamianie.md",
     "1. Projects/Linux/14. Procesy.md",
     "1. Projects/Linux/15. Systemd.md",
     "1. Projects/Linux/16. RAM, dyski, partycje.md",
