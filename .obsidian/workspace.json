@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Docker/4. .dockerignore.md",
+                "file": "1. Projects/Docker/3. Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. .dockerignore"
+              "title": "3. Dockerfile"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
-    "1. Projects/Docker/2. Podstawowe komendy.md",
     "1. Projects/Docker/4. .dockerignore.md",
+    "1. Projects/Docker/2. Podstawowe komendy.md",
     "1. Projects/Docker/3. Dockerfile.md",
     "1. Projects/Docker/1. Podstawy, instalacja, uruchamianie.md",
     "1. Projects/Linux/3. Podstawowe komendy.md",
