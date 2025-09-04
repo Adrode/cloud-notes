@@ -169,15 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12900587c472472",
+  "active": "faacba8b4eea93bf",
   "lastOpenFiles": [
+    "1. Projects/Networks/11. Narzędzie sieciowe w Linux.md",
+    "1. Projects/Docker/7. Sieci.md",
     "1. Projects/Networks/2. Modele sieciowe.md",
     "1. Projects/Networks/3. Rodzaje sieci.md",
     "1. Projects/Networks/4. Urządzenia sieciowe.md",
     "1. Projects/Networks/7. Port i socket.md",
     "1. Projects/Networks/8. IPv6.md",
     "1. Projects/Networks/6. IPv4.md",
-    "1. Projects/Docker/7. Sieci.md",
     "1. Projects/Docker/6. Wolumeny danych.md",
     "1. Projects/Linux/13. Skrypty.md",
     "1. Projects/Linux/17. Dowiązania - linki.md",
@@ -189,7 +190,6 @@
     "1. Projects/Docker/5. Tagi.md",
     "1. Projects/Docker/4. .dockerignore.md",
     "1. Projects/Linux/8. Logi.md",
-    "1. Projects/Networks/11. Narzędzie sieciowe w Linux.md",
     "1. Projects/Linux/14. Procesy.md",
     "1. Projects/Linux/15. Systemd.md",
     "1. Projects/Linux/16. RAM, dyski, partycje.md",
