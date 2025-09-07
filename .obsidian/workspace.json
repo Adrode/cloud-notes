@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Docker/8. Baza danych na kontenerze.md",
+                "file": "1. Projects/Python/1. Podstawy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Baza danych na kontenerze"
+              "title": "1. Podstawy"
             }
           }
         ]
@@ -171,12 +171,17 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
+    "3. Resources/DevOps Roadmap 2025.md",
+    "1. Projects/Python/1. Podstawy.md",
+    "1. Projects/Python",
+    "2. Areas/Cloud Engineer goals.md",
+    "1. Projects/Docker/9. docker-compose.md",
+    "1. Projects/Docker/8. Baza danych na kontenerze.md",
     "1. Projects/Linux/15. Systemd.md",
     "1. Projects/Linux/14. Procesy.md",
     "1. Projects/Linux/11. Zmienne środowiskowe.md",
     "1. Projects/Linux/1. Podstawy o systemie Linux.md",
     "1. Projects/Linux/13. Skrypty.md",
-    "1. Projects/Docker/8. Baza danych na kontenerze.md",
     "1. Projects/Docker/7. Sieci.md",
     "1. Projects/Linux/7. Instalacje.md",
     "1. Projects/Docker/6. Wolumeny danych.md",
@@ -193,10 +198,6 @@
     "1. Projects/Networks/6. IPv4.md",
     "1. Projects/Linux/17. Dowiązania - linki.md",
     "1. Projects/Docker/2. Podstawowe komendy.md",
-    "1. Projects/Docker/1. Podstawy, instalacja, uruchamianie.md",
-    "1. Projects/Linux/3. Podstawowe komendy.md",
-    "1. Projects/Linux/8. Logi.md",
-    "1. Projects/Linux/16. RAM, dyski, partycje.md",
     "3. Resources/Images/Pasted image 20250825173757.png",
     "3. Resources/Images/Pasted image 20250825170617.png",
     "3. Resources/Images/Pasted image 20250821195537.png",
@@ -216,7 +217,6 @@
     "1. Projects/Linux",
     "3. Resources/Metody tworzenia notatek",
     "Untitled",
-    "4. Archives",
-    "3. Resources"
+    "4. Archives"
   ]
 }

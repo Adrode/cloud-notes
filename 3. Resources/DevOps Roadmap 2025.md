@@ -5,20 +5,20 @@
 	- [ ] [Arch Linux 1](https://www.youtube.com/watch?v=qboMuv9vSpQ) 
 	- [ ] [Arch Linux 2](https://www.youtube.com/watch?v=cpoHedIhjWc)
 		- [ ] Boot process
-		- [ ] File System
+		- [x] File System
 		- [ ] Permissions
 		- [ ] Systemd
 		- [ ] Package managers
 		- [ ] Debugging skills
-		- [ ] Finding / reading logs
-		- [ ] Networking fundamentals
+		- [x] Finding / reading logs
+		- [x] Networking fundamentals
 		- [ ] Bash scripting
 	- [ ] Możliwe certyfikaty do zdobycia:
 		- [ ] RHCSA
 		- [ ] LPIC-1
 2. Containers
-	- [ ] Docker
-	- [ ] Dockerfile
+	- [x] Docker
+	- [x] Dockerfile
 	- [ ] Container security
 		- [ ] Czym są powyższe, czym się różnią, co oznacza instalowanie kontenera binarnie a co oznacza korzystanie z kontenera na własnym systemie.
 		- [ ] [Kurs Docker YT](https://www.youtube.com/watch?v=RqTEHSBrYFw)
@@ -33,7 +33,7 @@
 			- [ ] [Exercism Python course](https://exercism.org/tracks/python)
 			- [ ] [100 Days of Code: Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOoolBWQptnXDq7nyQ0stL32qQTXeHI1FFO8Pa7lPthHixkuMA8x0&couponCode=LETSLEARNNOW)
 				- Świetny kurs, bardzo dużo projektów się w nim robi
-			- Tworzyć własne malutkie automatyzacje dla siebie, nie muszą mieć dużo sensu, grunt żeby działały
+			- Tworzyć własne, malutkie automatyzacje dla siebie, nie muszą mieć dużo sensu, grunt żeby działały
 			- Tworzyć dużo malutkich projektów z użyciem API
 				- [Free public APIs site](https://www.freepublicapis.com/)
 		- Zmienne, funkcje, OOP (object oriented programming), biblioteki
