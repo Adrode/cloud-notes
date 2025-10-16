@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nano",
+                "query": "tag:#class_methods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,12 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12900587c472472",
+  "active": "faacba8b4eea93bf",
   "lastOpenFiles": [
+    "Untitled.base",
+    "1. Projects/Python/10. Programowanie obiektowe.md",
     "1. Projects/Python/9. Obsługa błędów.md",
     "1. Projects/Python/8. Obsługa plików.md",
     "1. Projects/Python/7. Funkcje.md",
-    "1. Projects/Python/10. Programowanie obiektowe.md",
     "1. Projects/Python/1. Podstawy.md",
     "1. Projects/Python/6. Struktury danych.md",
     "1. Projects/Python/2. Strings.md",
@@ -196,7 +197,6 @@
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.3. Protokoły warstwy internetowej.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.2. Protokoły warstwy transportowej.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.1. Protokoły warstwy aplikacji.md",
-    "1. Projects/Docker/9. docker-compose.md",
     "1. Projects/Python",
     "3. Resources/Images/Pasted image 20250825173757.png",
     "3. Resources/Images/Pasted image 20250825170617.png",
@@ -216,7 +216,6 @@
     "Untitled.canvas",
     "1. Projects/Linux",
     "3. Resources/Metody tworzenia notatek",
-    "Untitled",
-    "4. Archives"
+    "Untitled"
   ]
 }
