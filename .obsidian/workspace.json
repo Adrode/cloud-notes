@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Python/10.1. MRO.md",
+                "file": "1. Projects/Python/11. Struktury danych i algorytmy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1. MRO"
+              "title": "11. Struktury danych i algorytmy"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
-    "Untitled.md",
-    "1. Projects/Python/10.1. MRO.md",
+    "1. Projects/Python/6. Struktury danych - podstawy.md",
+    "1. Projects/Python/11. Struktury danych i algorytmy.md",
+    "1. Projects/Python/3. Typy danych.md",
     "1. Projects/Python/10. Programowanie obiektowe.md",
-    "1. Projects/Python/6. Struktury danych.md",
+    "1. Projects/Python/10.1. MRO.md",
+    "Untitled.md",
     "Untitled.base",
     "1. Projects/Python/9. Obsługa błędów.md",
     "1. Projects/Python/8. Obsługa plików.md",
@@ -183,7 +185,6 @@
     "1. Projects/Python/2. Strings.md",
     "1. Projects/Python/5. Pętle.md",
     "1. Projects/Python/4. Instrukcje warunkowe.md",
-    "1. Projects/Python/3. Typy danych.md",
     "1. Projects/Networks/11. Narzędzie sieciowe w Linux.md",
     "1. Projects/Networks/9. Słowniczek pojęć sieciowych.md",
     "1. Projects/Networks/8. IPv6.md",
@@ -197,7 +198,6 @@
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.4. Protokoły warstwy dostępu do sieci.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.3. Protokoły warstwy internetowej.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.2. Protokoły warstwy transportowej.md",
-    "1. Projects/Networks/10. Protokoły modelu TCPIP/10.1. Protokoły warstwy aplikacji.md",
     "1. Projects/Python",
     "3. Resources/Images/Pasted image 20250825173757.png",
     "3. Resources/Images/Pasted image 20250825170617.png",
