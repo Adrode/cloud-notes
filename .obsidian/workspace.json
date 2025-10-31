@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Python/11. Big O notation, Time & Space Complexity.md",
+                "file": "1. Projects/Python/6. Struktury danych - podstawy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Big O notation, Time & Space Complexity"
+              "title": "6. Struktury danych - podstawy"
             }
           }
         ]
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faacba8b4eea93bf",
+  "active": "c12900587c472472",
   "lastOpenFiles": [
     "1. Projects/Python/12. Struktury danych i algorytmy.md",
     "1. Projects/Python/11. Big O notation, Time & Space Complexity.md",
