@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Python/11. Struktury danych i algorytmy.md",
+                "file": "1. Projects/Python/11. Big O notation, Time & Space Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Struktury danych i algorytmy"
+              "title": "11. Big O notation, Time & Space Complexity"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#class_methods",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12900587c472472",
+  "active": "faacba8b4eea93bf",
   "lastOpenFiles": [
+    "1. Projects/Python/12. Struktury danych i algorytmy.md",
+    "1. Projects/Python/11. Big O notation, Time & Space Complexity.md",
     "1. Projects/Python/6. Struktury danych - podstawy.md",
-    "1. Projects/Python/11. Struktury danych i algorytmy.md",
-    "1. Projects/Python/3. Typy danych.md",
     "1. Projects/Python/10. Programowanie obiektowe.md",
     "1. Projects/Python/10.1. MRO.md",
+    "1. Projects/Python/3. Typy danych.md",
     "Untitled.md",
     "Untitled.base",
     "1. Projects/Python/9. Obsługa błędów.md",
@@ -197,7 +198,6 @@
     "1. Projects/Networks/1. System binarny.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.4. Protokoły warstwy dostępu do sieci.md",
     "1. Projects/Networks/10. Protokoły modelu TCPIP/10.3. Protokoły warstwy internetowej.md",
-    "1. Projects/Networks/10. Protokoły modelu TCPIP/10.2. Protokoły warstwy transportowej.md",
     "1. Projects/Python",
     "3. Resources/Images/Pasted image 20250825173757.png",
     "3. Resources/Images/Pasted image 20250825170617.png",
