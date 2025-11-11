@@ -20,8 +20,47 @@
               "icon": "lucide-file",
               "title": "12. Struktury danych i algorytmy"
             }
+          },
+          {
+            "id": "cd4c00f99173d1af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3. Resources/Images/Pasted image 20251111104559.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251111104559"
+            }
+          },
+          {
+            "id": "ba729a45a6fe7dc0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3. Resources/Images/Pasted image 20251111104045.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251111104045"
+            }
+          },
+          {
+            "id": "81a55ce55dca0ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Python/12. Struktury danych i algorytmy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Struktury danych i algorytmy"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +208,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faacba8b4eea93bf",
+  "active": "81a55ce55dca0ddb",
   "lastOpenFiles": [
+    "3. Resources/Images/Pasted image 20251111103626.png",
+    "3. Resources/Images/Pasted image 20251111104045.png",
+    "3. Resources/Images/Pasted image 20251111104559.png",
+    "1. Projects/Python/12. Struktury danych i algorytmy.md",
     "3. Resources/Images/Pasted image 20251110171305.png",
     "3. Resources/Images/Pasted image 20251110162700.png",
     "2. Areas/Cloud Engineer goals.md",
     "README.md",
-    "1. Projects/Python/12. Struktury danych i algorytmy.md",
     "3. Resources/Images/Pasted image 20251109133243.png",
     "1. Projects/Python/9. Obsługa błędów.md",
     "1. Projects/Python/8. Obsługa plików.md",
@@ -205,10 +247,6 @@
     "1. Projects/Networks/4. Urządzenia sieciowe.md",
     "1. Projects/Python",
     "3. Resources/Images/Pasted image 20250825173757.png",
-    "3. Resources/Images/Pasted image 20250825170617.png",
-    "3. Resources/Images/Pasted image 20250821195537.png",
-    "3. Resources/Images/Pasted image 20250819185048.png",
-    "3. Resources/Images/Pasted image 20250819184839.png",
     "1. Projects/Networks/10. Protokoły modelu TCPIP",
     "1. Projects/Networks",
     "2. Areas/Cloud Eng. goals",
