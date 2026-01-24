@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/PostgreSQL/14. Transakcje.md",
+                "file": "1. Projects/PostgreSQL/12. SERIAL, SEQUENCE, UUID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Transakcje"
+              "title": "12. SERIAL, SEQUENCE, UUID"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#foreign_keys",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,16 +173,16 @@
   "lastOpenFiles": [
     "1. Projects/PostgreSQL/13. Indeksy.md",
     "1. Projects/PostgreSQL/14. Transakcje.md",
+    "1. Projects/PostgreSQL/8. Modyfikacje wierszy.md",
+    "1. Projects/PostgreSQL/7. Constraints.md",
+    "1. Projects/PostgreSQL/1. Podstawy.md",
     "1. Projects/PostgreSQL/12. SERIAL, SEQUENCE, UUID.md",
     "ie.md",
-    "1. Projects/PostgreSQL/1. Podstawy.md",
     "1. Projects/PostgreSQL/2. Aggregate functions.md",
     "1. Projects/PostgreSQL/3. Arithmetics operations.md",
     "1. Projects/PostgreSQL/4. Funkcje.md",
     "1. Projects/PostgreSQL/5. Dates.md",
     "1. Projects/PostgreSQL/6. Primary Key.md",
-    "1. Projects/PostgreSQL/7. Constraints.md",
-    "1. Projects/PostgreSQL/8. Modyfikacje wierszy.md",
     "1. Projects/PostgreSQL/9. Conflict handling.md",
     "1. Projects/PostgreSQL/10. Foreign Keys, Relationships & Joins.md",
     "1. Projects/PostgreSQL/11. Export do pliku.md",
