@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/PostgreSQL/12. SERIAL, SEQUENCE, UUID.md",
+                "file": "1. Projects/Python/21. SQL Alchemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. SERIAL, SEQUENCE, UUID"
+              "title": "21. SQL Alchemy"
             }
           }
         ]
@@ -171,15 +171,18 @@
   },
   "active": "c12900587c472472",
   "lastOpenFiles": [
+    "1. Projects/Python/18. pip & virtual environment.md",
+    "1. Projects/Python/21. SQL Alchemy.md",
+    "1. Projects/Python/19. Common packages.md",
+    "1. Projects/PostgreSQL/2. Aggregate functions.md",
+    "1. Projects/PostgreSQL/3. Arithmetics operations.md",
+    "1. Projects/PostgreSQL/12. SERIAL, SEQUENCE, UUID.md",
     "1. Projects/PostgreSQL/13. Indeksy.md",
     "1. Projects/PostgreSQL/14. Transakcje.md",
     "1. Projects/PostgreSQL/8. Modyfikacje wierszy.md",
     "1. Projects/PostgreSQL/7. Constraints.md",
     "1. Projects/PostgreSQL/1. Podstawy.md",
-    "1. Projects/PostgreSQL/12. SERIAL, SEQUENCE, UUID.md",
     "ie.md",
-    "1. Projects/PostgreSQL/2. Aggregate functions.md",
-    "1. Projects/PostgreSQL/3. Arithmetics operations.md",
     "1. Projects/PostgreSQL/4. Funkcje.md",
     "1. Projects/PostgreSQL/5. Dates.md",
     "1. Projects/PostgreSQL/6. Primary Key.md",
@@ -196,9 +199,6 @@
     "3. Resources/Images/Pasted image 20260101141655.png",
     "1. Projects/Python/20. FastAPI.md",
     "1. Projects/PostgreSQL",
-    "1. Projects/Python/1. Podstawy.md",
-    "1. Projects/Python/18. pip & virtual environment.md",
-    "1. Projects/Python/19. Common packages.md",
     "3. Resources/Images/Pasted image 20251112185428.png",
     "3. Resources/Images/Pasted image 20251112185346.png",
     "3. Resources/Images/Pasted image 20251112185013.png",
